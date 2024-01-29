@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+.Cards {
+    display: flex;
+    margin-left: 20px;
+    justify-content: space-evenly;  
+}
+.scrolling {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.carousel-inner {
+    width: 100%;
+
+}
+.kk{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 30px;
+}
+.kkk{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 30px;
+}
+.k{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 30px;
+}
+.discount img {
+    width: 80%;
+    margin-left: 130px;
+    
+}
+.discount h1 {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 20px;
+}
